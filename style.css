@@ -1,0 +1,227 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.container{
+    background: url(freepik-export-20241010104905ayXG.png);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+.container img{
+    width:10%;
+    height: 6%;
+}
+
+.aboutcontainer{
+    background:url(abstract-design-background-smooth-flowing-lines.jpg);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+.aboutcontainer img{
+    width:10%;
+    height: 6%;
+}
+
+nav{
+    display: flex;
+    flex-wrap: nowrap;
+    letter-spacing: 1px;
+    justify-content:space-evenly;
+    width: 100%;
+}
+nav a{
+    color:antiquewhite;
+}
+.head h1{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    
+}
+.head{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.aboutus h1{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6rem;
+    letter-spacing: 3px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 10%;
+}
+.aboutus{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.follow h3{
+    padding-right: 0%;
+    padding-left: 10%;
+    padding-top: 6%;
+    color: rgb(244, 243, 238);
+    font-size: 2rem;
+}
+.follow{
+    display: grid;
+    justify-content: space-between;
+}
+.follow img{
+    width: auto;
+    height: 90%;
+    padding-left: 0%;
+    padding-right: 10%;
+}
+
+.fire h3{
+    padding-right: 10%;
+    padding-left: 1%;
+    padding-top: 6%;
+    color: rgb(244, 243, 238);
+    font-size: 2rem;
+}
+.fire input{
+    text-align: center;
+    justify-content: center;
+    border-radius: 8%;
+    color: white;
+    background-color: indianred;
+    width:30%;
+    height: 30px;
+}
+.fire{
+    display: grid;
+    justify-content: space-between;
+    background: rgb(20, 20, 20);
+    background-size: cover;
+}
+.fire img{
+    width: auto;
+    height: 90%;
+    padding-left: 10%;
+    padding-right: 1%;
+}
+
+.firexx p{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 6%;
+    color: rgb(244, 243, 238);
+    font-size: 1rem;
+}
+.firexx input{
+    text-align: center;
+    justify-content: center;
+    border-radius: 8%;
+    color: white;
+    background-color: indianred;
+    width:30%;
+    height: 30px;
+}
+.firexx{
+    display: grid;
+    justify-content: space-between;
+    background: rgb(20, 20, 20);
+    background-size: cover;
+}
+.firexx img{
+    width: 100%;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.concontainer{
+    background: url(freepik-export-202410101042359KSm.png);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+.concontainer img{
+    width:10%;
+    height: 6%;
+}
+.flame label{
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+}
+.flame input{
+    box-sizing: content-box;
+    font-size: 1.2rem;
+    border-radius: 60%;
+}
+.flame{
+    display: block;
+}
+.lala{
+    background: url(freepik-export-20241010104556gdfz.png);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+.lala img{
+    width:10%;
+    height: 6%;
+}
+.headxx h1{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.headxx h3{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.headxx{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.yayo{
+    background-color: cadetblue;
+    color:antiquewhite;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yayo h1{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.yayo h3{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.smoke h3{
+    display: flex;
+    flex-wrap: nowrap;
+}
